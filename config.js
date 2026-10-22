@@ -1,0 +1,1 @@
+// Preencha quando o projeto Supabase estiver criado. Use somente chave publicável (anon).\nwindow.BENJA_SUPABASE = { url: '', anonKey: '' };\n
